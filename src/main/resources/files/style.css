@@ -1,0 +1,45 @@
+.root {
+    -fx-font-family: Arial;
+}
+
+.menu-bar {
+    -fx-background-color: #9c4f00;
+}
+
+.left-side {
+    -fx-background-color: #bf7f2d;
+}
+
+.right-side {
+    -fx-background-color: #58e600;
+}
+
+.bottom-bar {
+    -fx-background-color: gray;
+}
+
+.text-field {
+    -fx-border-color: limegreen;
+    -fx-border-width: 2px;
+    -fx-pref-height: 30px;
+}
+
+.side-button {
+    -fx-background-color: #bf7f2d;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+    -fx-pref-height: 40px;
+    -fx-background-radius: 8px;
+}
+
+.table-view .column-header {
+    -fx-background-color: gray;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+}
+
+.profile-box {
+    -fx-background-color: white;
+}
